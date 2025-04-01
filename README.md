@@ -18,14 +18,7 @@
 ## 📌 Projects & Interests
 🎨 **Interactive Web Animations** – Smooth, engaging web experiences with GSAP  
 🤖 **Telegram Bot** – Automating barcode scanning with PLU data  
-🌐 **Portfolio** – Showcasing my work & experiments  
 📊 **Data Visualization** – Building insightful dashboards with D3.js & Chart.js  
-
----
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunggialyana&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunggialyana&layout=compact&theme=radical)  
 
 ---
 
