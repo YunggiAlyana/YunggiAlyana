@@ -33,17 +33,11 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunggiAlyana&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunggiAlyana&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YunggiAlyana&theme=dark)
-
----
-
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YunggiAlyana)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ccookies25)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunggialyana123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunggi-a-0abb04257/)
 
 ![Made with Love](https://img.shields.io/badge/Made%20with%20❤️-FF0000?style=for-the-badge)
 ![Night Owl Coder](https://img.shields.io/badge/Night%20Owl%20Coder-000000?style=for-the-badge&logo=github&logoColor=white)
