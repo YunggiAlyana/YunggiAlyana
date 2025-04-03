@@ -37,7 +37,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YunggiAlyana)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ccookies25)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunggialyana123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yunggi-alyana318)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunggi-alyana318/)
 
 ![Made with Love](https://img.shields.io/badge/Made%20with%20❤️-FF0000?style=for-the-badge)
 ![Night Owl Coder](https://img.shields.io/badge/Night%20Owl%20Coder-000000?style=for-the-badge&logo=github&logoColor=white)
