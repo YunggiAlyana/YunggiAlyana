@@ -35,8 +35,6 @@
 
 ## 🟢 GitHub Activity Highlights
 
-![Yunggi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunggiAlyana&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=YunggiAlyana&theme=radical&border_radius=5)
 
 > Over **5,000+ contributions** in the last year — building consistently, learning endlessly.
