@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Yunggi Alyana!
+#  Hi, I'm Yunggi Alyana!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YunggiAlyana&color=blue)
 
