@@ -37,8 +37,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YunggiAlyana&theme=radical&border_radius=5)
 
-> Over **5,000+ contributions** in the last year — building consistently, learning endlessly.
-
 ---
 
 ## 📫 Connect with Me
