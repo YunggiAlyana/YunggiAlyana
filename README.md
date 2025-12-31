@@ -23,7 +23,7 @@ I'm an Information Systems student at **Universitas Terbuka** with a passion for
 
 ### **Machine Learning & Python**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
@@ -33,7 +33,7 @@ I'm an Information Systems student at **Universitas Terbuka** with a passion for
 
 ### 📡 TelcoSense (Capstone Project)
 A product recommendation system for Telco services using **Machine Learning** to personalize user offers.
-- **Tech:** React, Hapi.js, Python (Flask/ML).
+- **Tech:** React, Hapi.js, Python (FastAPI/ML).
 
 ### 📜 [CertifYT](https://github.com/YunggiAlyana/certifyt)
 A web application to generate certificates based on YouTube playlist completion via **YouTube Data API v3**.
